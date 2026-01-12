@@ -1,1 +1,2 @@
-Here the file that shows Porfolio which starts value is 10000 and does the investment in differnet assets and the weights are alwayed being year update . Means that at every end of the year the shares are selled and the new weighted which are assigned are being purchase
+Attached is a file showing a portfolio with an initial value of $10,000. It invests in various assets with weights that are updated annually. This means that at the end of every year, the current shares are sold and new shares are purchased according to the assigned weights
+
